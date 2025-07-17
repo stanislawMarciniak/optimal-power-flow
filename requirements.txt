@@ -1,0 +1,12 @@
+# Data manipulation & analysis
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Deep learning
+torch>=2.0.0
+
+# Power‐flow analysis
+pypower>=1.3.0

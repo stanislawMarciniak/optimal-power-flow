@@ -9,4 +9,3 @@ A deep learning approach to solving AC Optimal Power Flow (AC-OPF) problems usin
 ## Overview
 
 AC Optimal Power Flow is a fundamental optimization problem in power system operations that determines optimal generator settings while minimizing costs and satisfying operational constraints. Traditional optimization methods often struggle with the scale and complexity of modern power grids. This project leverages neural networks to provide rapid approximations of AC-OPF solutions.
-

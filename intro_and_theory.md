@@ -6,6 +6,14 @@ In the rapidly evolving energy sector, the ability to quickly and efficiently so
 
 Recent advancements in artificial intelligence, particularly deep learning, have introduced neural networks as a powerful alternative to traditional optimization methods. Neural networks can approximate complex, nonlinear functions, making them well-suited for modeling the intricacies of AC-OPF problems. By leveraging PyTorch, a leading deep learning framework, we will train neural networks to provide fast, scalable solutions for AC-OPF. This approach not only speeds up the computation but also enhances the ability to handle larger and more complex power grid systems.
 
+# Table of Contents
+
+- [Climate Impact](#climate-change)
+- [Fundamentals of Power Grids](#fundamentals-of-power-grids)
+- [AC Optimal Power Flow](#ac-optimal-power-flow)
+
+<a name="climate-change"></a>
+
 # Climate Impact
 
 The methods and tools introduced in this project can significantly contribute to mitigating climate change through various pathways:
@@ -15,6 +23,8 @@ The methods and tools introduced in this project can significantly contribute to
 - **Enhancing Energy Efficiency:** AC-OPF helps optimize the dispatch of power generation units, enabling more efficient utilization of available resources. By minimizing system losses and improving overall energy efficiency, the neural network-based AC-OPF model can contribute to reducing carbon emissions associated with power generation.
 
 - **Grid Resilience and Stability:** AC-OPF plays a significant role in maintaining grid resilience and stability. By accurately modeling and optimizing the power flow, the neural network-based AC-OPF model can enhance grid stability, reduce the risk of blackouts, and otherwise improve the operation of the power grid.
+
+<a name="fundamentals-of-power-grids"></a>
 
 # Fundamentals of Power Grids
 
@@ -167,6 +177,8 @@ The operation of power grids involves managing a complex network of generators, 
 - **Physical limits**: The physical limits of a power grid encompass the technical constraints of the network, such as the capacity of transmission lines, transformers, and substations. These components can only handle certain amounts of electrical load before becoming inefficient or risking damage.
 
 In the project, we will introduce AC Optimal Power Flow, a fundamental mathematical model used to optimize the operation of power networks. It is solved to ensure efficient, safe, and economical power system operations.
+
+<a name="ac-optimal-power-flow"></a>
 
 # AC Optimal Power Flow
 

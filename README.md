@@ -15,4 +15,3 @@ AC Optimal Power Flow is a key optimization problem in power system operations t
 - [optimal_power_flow.ipynb](./optimal_power_flow.ipynb) – notebook with an implementation of the PJM 5 network, including data preprocessing, NN training, evaluation, and comparison of both networks.
 - [intro_and_theory.md](./intro_and_theory.md) – in-depth description of the problem, its significance, and the challenges of traditional solutions.
 - [assets](./assets/) – folder with images used for explanations.
-- [data](./data/) – folder with data used to train the neural networks.
